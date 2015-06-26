@@ -1,0 +1,12 @@
+body {
+	background-image: url("http://www.wired.com/wp-content/uploads/2014/10/whyte-d.gif");
+}
+p{
+	color:white;
+}
+p#egg{
+	color:yellow;
+}
+p.Corey{
+	color:red;
+}
